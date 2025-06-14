@@ -1,0 +1,161 @@
+856|ERA FM
+853|MY FM
+862|OPUS
+852|HITZ FM
+855|MIX FM
+854|LITE FM
+860|CLASSIC ROCK
+861|GOLD
+863|THR GEGAR
+864|INDIA BEAT
+865|JAZZ
+869|NAS FM
+857|SINAR FM
+866|OSAI
+858|MELODY FM
+870|V FM
+859|THR RAAGA
+867|BAYU
+868|KENYALANG
+326|Phoenix Info News HD
+149|TV9
+214|Adithya
+709|Asian Food Network HD
+147|NTV7
+103|TV3
+148|8TV
+701|AXN HD
+393|ONE HD
+309|Celestial Movies HD
+553|Discovery Asia HD
+411|HBO HD
+555|History HD
+871|WAI FM
+114|Al-Hijrah
+708|Food Network HD
+514|Sky News HD
+308|Astro QJ
+502|BERNAMA
+392|KBS World HD
+333|Astro Hua Hee Dai
+202|Astro Vinmeen
+311|Astro AOD
+241|Astro Thangathirai
+706|HITS HD
+306|Astro AEC
+321|Celestial Classic Movies
+831|Golf Channel
+395|tvN HD
+104|Astro Ria
+832|Astro Cricket
+715|HGTV HD
+310|TVB Jade
+835|Astro Cricket Plus
+819|Astro Football 2
+801|Astro Arena
+820|beIN SPORTS 1
+404|Astro Boo
+396|K-Plus HD
+712|Warner TV HD
+416|tvN Movies HD
+819|beIN SPORTS 5
+809|Astro Sports Plus 2
+521|DW English
+522|France24
+876|ZAYAN
+877|GOXUAN
+515|CNA HD
+223|Zee Tamil HD
+222|Colors Tamil HD
+108|Astro Citra
+874|AI FM
+805|Astro Sports UHD
+875|ASYIK FM
+873|MINNAL FM
+872|TRAXX FM
+822|beIN SPORTS 3
+106|Astro Oasis
+105|Astro Prima
+511|CNN HD
+412|CINEMAX HD
+707|TLC HD
+825|EUROSPORT
+352|Gempak Bites
+300|iQIYI HD
+221|Star Vijay HD
+211|SUN TV HD
+116|Colors Hindi HD
+512|BBC News HD
+716|DMAX HD
+714|Crime & Investigation HD
+616|Nickelodeon HD
+615|Cartoon Network HD
+513|Al Jazeera English HD
+552|Discovery Channel HD
+556|Animal Planet HD
+325|Phoenix Chinese Channel HD
+319|TVB Xing He HD
+320|TVBS Asia HD
+335|CCTV4  HD
+611|Astro Ceria
+401|HITS MOVIES HD
+617|Nick Jr.
+833|Premier Sports Rugby
+394|Smithsonian Channel
+101|TV1 HD
+102|TV2 HD
+201|Astro Vaanavil
+203|Astro Vellithirai HD
+113|Astro Aura
+112|Astro Rania
+603|Astro Tutor TV
+212|Sun Music HD
+718|MTV Live
+517|Bloomberg TV HD
+516|CNBC Asia HD
+316|CTI Asia HD
+305|TVB Classic HD
+503|CGTN HD
+317|TVB Entertainment News HD
+398|NHK World Premium
+122|TV Sarawak
+501|Astro Awani HD
+703|Lifetime HD
+415|HBO Hits
+414|HBO Family
+717|BBC Lifestyle HD
+554|BBC Earth
+413|Astro Showcase
+823|SPOTV
+802|Astro Arena 2
+458|BBC First HD
+459|BBC Brit HD
+518|ABC Australia HD
+618|Moonbug
+821|beIN SPORTS 2
+146|TV Okey HD
+549|Love Nature 4K
+824|SPOTV2
+217|Sun Life
+216|KTV
+215|Sun News
+620|CBeebies
+551|Global Trekker
+550|Love Nature
+803|Arena Bola
+804|Arena Bola 2
+251|Zee Cinema
+826|W-Sport
+702|HITS NOW
+807|Arena Bola 3
+808|Arena Bola 4
+811|Astro Premier League
+812|Astro Premier League 2
+813|Astro Premier League 3
+814|Astro Football
+815|Astro Badminton
+816|Astro Badminton 2
+817|Astro Sports Plus
+810|Astro Grandstand
+619|Blippi & Friends
+818|Astro Premier League 4
